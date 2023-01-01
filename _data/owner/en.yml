@@ -2,13 +2,13 @@
 # Owner's Personal Information
 ###########################################################
 # This is your brand name
-brand: "Porfolio d'Hugo !"
+brand: "Porfolio de Geneviève !"
 
 # text below the brand name
 brand_sub_text: "$site_sample"
 
 # used for seo meta post author (if it's not defined in post)
-name: "Coding porfolio for Hugo Lopez"
+name: "Coding porfolio for Geneviève Gleizes"
 
 # home page top header texts
 home:
@@ -48,8 +48,8 @@ meta_common_description: "Your meta description."
 # the order of the items will be shown as here.
 # comment to remove any contact item
 contacts:
-  - github: "hugolpz"
-  - email: "hugo.lpz@mail.com"
+  - github: "ggleiZes"
+  - email: "gleizes.genevieve@mail.com"
   #- linkedin: ""
   #- twitter: ""
   #- instagram: ""
